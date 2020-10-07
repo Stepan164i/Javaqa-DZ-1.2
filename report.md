@@ -5,14 +5,13 @@
 <05.10.2020> - <05.10.2020> было проведено <Функциональное тестирование, тестирование установки, системное, интеграционное > приложения <IntelliJ IDEA>.
 
 На тестирование затрачено: <12>
+В результате тестирования выявлены следующие дефекты:
+* [<Дефект>](https://github.com/Stepan164i/Javaqa-DZ-1.2/issues/1)
 
 ## Описание процесса тестирования
 
 1. Установка IntelliJ IDEA согласно [Руководство по установке IntelliJ IDEA](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/idea.md)
 Ожидаемый результат:
-Выполнена установка согласно [Руководства по установки
-](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/idea.md)
-Фактически результат:
 Выполнена установка согласно [Руководства по установки
 ](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/idea.md)
 
